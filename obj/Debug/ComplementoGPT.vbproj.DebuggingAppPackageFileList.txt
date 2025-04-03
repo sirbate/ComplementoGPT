@@ -1,2 +1,0 @@
-bin\Debug\OfficeAppManifests\ComplementoGPTManifest.xml
-C:\Users\user\Documents\SINOVA\Add In\ComplementoGPT\ComplementoGPT\bin\Debug\ComplementoGPT.debugapp
