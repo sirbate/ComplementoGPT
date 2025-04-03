@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordWebGPTManifest.xml
+C:\Users\user\Documents\SINOVA\Add In\GPT\WordWebGPT\bin\Debug\WordWebGPT.debugapp
